@@ -1,4 +1,4 @@
-#install mitmproyx and check all connection 
+#install mitmproxy and check all connection 
 #start lising all connection from localhost and port 8080: 127.0.0.1:8080
 
 python -m venv  vevn
